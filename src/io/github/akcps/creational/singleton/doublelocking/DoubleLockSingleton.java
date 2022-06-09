@@ -1,4 +1,4 @@
-package io.github.akcps.creational.singleton.doublepacking;
+package io.github.akcps.creational.singleton.doublelocking;
 
 public class DoubleLockSingleton {
     private volatile static DoubleLockSingleton uniqueInstance;
