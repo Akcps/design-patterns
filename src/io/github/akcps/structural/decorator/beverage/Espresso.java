@@ -1,4 +1,4 @@
-package io.github.akcps.structural.decorator;
+package io.github.akcps.structural.decorator.beverage;
 
 public class Espresso extends Beverage {
 
