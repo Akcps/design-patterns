@@ -1,4 +1,4 @@
-package io.github.akcps.structural.decorator;
+package io.github.akcps.structural.decorator.beverage;
 
 public class Milk extends CondimentDecorator {
     public Milk(Beverage beverage) {
