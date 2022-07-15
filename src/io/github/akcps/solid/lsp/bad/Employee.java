@@ -24,4 +24,6 @@ public abstract class Employee {
     public Employee getManager() {
         return manager;
     }
+
+    public abstract void getHourlyRate();
 }

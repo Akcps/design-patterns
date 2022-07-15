@@ -10,4 +10,9 @@ public class Ceo extends Employee{
         System.out.println("No manager for CEO.");
         // throw new Exception("No manager for CEO.");
     }
+
+    @Override
+    public void getHourlyRate() {
+        System.out.println("Ceo Hourly Rate is 3000 $");
+    }
 }
